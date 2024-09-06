@@ -18,8 +18,7 @@
 
 ## Emerald Coast Life Capsule 1
 
-<img src="./Hot Shelter/Life Capsule 1.png" alt="drawing" width="960"/>
-<img src="./Hot Shelter/(Alt) Life Capsule 1.png" alt="drawing" width="960"/>
+<img src="./Emerald Coast/Life Capsule 1.png" alt="drawing" width="960"/>
 
 [Back to Top](#)
 
@@ -27,6 +26,7 @@
 
 ## Hot Shelter Life Capsule 1
 
-<img src="./Emerald Coast/Life Capsule 1.png" alt="drawing" width="960"/>
+<img src="./Hot Shelter/Life Capsule 1.png" alt="drawing" width="960"/>
+<img src="./Hot Shelter/(Alt) Life Capsule 1.png" alt="drawing" width="960"/>
 
 [Back to Top](#)
