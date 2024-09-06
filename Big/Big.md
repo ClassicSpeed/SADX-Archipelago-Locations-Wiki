@@ -1,4 +1,4 @@
-﻿# Big Stages
+﻿# Big's Stages
 
 ## Table of Contents:
 
