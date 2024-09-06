@@ -1,4 +1,4 @@
-﻿# Big's Stages
+﻿# Sonic's Stages
 
 ## Table of Contents:
 

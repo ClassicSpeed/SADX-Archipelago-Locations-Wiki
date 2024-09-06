@@ -1,4 +1,4 @@
-﻿# Adventure Field Emblems locations
+﻿# Adventure Field Emblems
 
 ## Table of Contents:
 
