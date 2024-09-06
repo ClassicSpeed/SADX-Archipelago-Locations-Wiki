@@ -3,8 +3,8 @@
 ## Table of Contents:
 
 1. [ Ice Cap ](#ice-cap)
-1. [ Emerald Coast ](#emerald-coast)
-1. [ Hot Shelter ](#hot-shelter)
+2. [ Emerald Coast ](#emerald-coast)
+3. [ Hot Shelter ](#hot-shelter)
 
 # Ice Cap
 
