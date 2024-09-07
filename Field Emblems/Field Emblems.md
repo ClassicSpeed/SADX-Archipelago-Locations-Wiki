@@ -19,6 +19,7 @@
 
 ## Station Square Emblem 3
 
+To get this Emblem, attack as Tails or dig as Knuckles between the four palm trees.
 <img src="./Station Square/Station Square Emblem 3.png" alt="drawing" width="960"/>
 
 ## Station Square Emblem 4

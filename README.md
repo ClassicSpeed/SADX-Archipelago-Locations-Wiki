@@ -18,4 +18,4 @@ If you notice any issues or have feedback or suggestions send me a message on th
 
 ## Credits
 
-- DementisXYZ for taking screenshots of the life capsules and field emblems.
+- DementisXYZ Roukles for taking screenshots of the life capsules and field emblems.
