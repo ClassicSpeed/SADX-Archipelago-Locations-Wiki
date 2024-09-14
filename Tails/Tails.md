@@ -20,6 +20,7 @@
 ## Casinopolis Life Capsule 1
 
 <img src="./Casinopolis/Life Capsule 1.png" alt="drawing" width="960"/>
+
 ## Casinopolis Life Capsule 2
 
 <img src="./Casinopolis/Life Capsule 2.png" alt="drawing" width="960"/>
