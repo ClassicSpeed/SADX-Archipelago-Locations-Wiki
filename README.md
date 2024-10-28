@@ -18,8 +18,9 @@ If you notice any issues or have feedback or suggestions send me a message on th
 
 ## Extra:
 
-- [**Items**](./Items.md)
-- [**Configurations**](./Configurations.md)
+- [**Item information**](./Items.md)
+- [**Item/Location Groups**](./Groups.md)
+- [**Level Entrance Randomizer**](./LevelEntranceRandomizer.md)
 
 ## FAQ:
 
