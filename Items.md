@@ -49,14 +49,4 @@ Character upgrades, they behave like in the original game.
 - **Police Trap**: Spawns multiple police enemies that will chase the player.
 - **Buyon Trap**: Spawns multiple Buyon enemies around the player.
 
-## Item Groups
-
-These are used for hinting of the items from a group without being specific.
-
-- **Chaos Emeralds**
-- **Playable Characters**
-- **Upgrades**
-- **Key Items**
-- **Fillers**
-- **Traps**
 
