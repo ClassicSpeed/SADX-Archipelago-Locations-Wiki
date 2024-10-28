@@ -8,13 +8,43 @@ If you notice any issues or have feedback or suggestions send me a message on th
 
 ## Table of Contents
 
-1. [ Adventure Field Emblems ](./Field%20Emblems/Field%20Emblems.md)
-2. [ Sonic's Life Capsules ](./Sonic/Sonic.md)
-3. [ Tails' Life Capsules ](./Tails/Tails.md)
-4. [ Knuckles' Life Capsules ](./Knuckles/Knuckles.md)
-5. [ Amy's Life Capsules ](./Amy/Amy.md)
-6. [ Big's Life Capsules ](./Big/Big.md)
-7. [ Gamma's Life Capsules ](./Gamma/Gamma.md)
+1. [**Action Stages**](./ActionStages.md)
+2. [**Upgrades**](./Upgrades.md)
+3. [**Adventure Field Emblems**](./Field%20Emblems/Field%20Emblems.md)
+4. [**Life Capsules**](./LifeCapsules.md)
+5. [**Sublevels**](./Sublevels.md)
+6. [**Bosses**](./Bosses.md)
+7. [**Missions**](./Missions.md)
+
+## Extra:
+
+- [**Item information**](./Items.md)
+- [**Item/Location Groups**](./Groups.md)
+- [**Level Entrance Randomizer**](./LevelEntranceRandomizer.md)
+
+## FAQ:
+
+### How do I access the boss fights?
+
+The mod adds warp platforms to enter the boss fights. The locations are detailed in the [Bosses](./Bosses.md) section.
+
+### How do I access Sky Chase?
+
+The mod adds warp platforms to enter both acts. The locations are detailed in the [Sublevels](./Sublevels.md) section.
+
+### Where is the Rhythm Badge?
+
+You have to travel to the past using a [warp platform](./Upgrades.md#tails-rhythm-badge) near the Master Emerald Shrine.
+
+### Where can I find the logic for the mod?
+
+You can check out the logic
+spreadsheet [here](https://docs.google.com/spreadsheets/d/1CfBZ_pLGm3YTWwEwBLbk67e4iSrOE5vbcu0UkFej0pY/edit?usp=sharing).
+
+### How do I get X location check?
+
+All locations are listed in the [Table of Contents](#table-of-contents).
+If you have any questions that are not answered here, feel free to ask in the Archipelago server.
 
 ## Credits
 
