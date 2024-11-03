@@ -80,9 +80,11 @@ The Sky Deck door won't open if the level is not accessible for the character.
 
 ### Lost World
 
-For Sonic, Tails, Amy, Gamma, and Big, you have to use the snake head entrance. It will be closed if the level is not accessible.
+For Sonic, Tails, Amy, and Big, you have to use the snake head entrance. It will be closed if the level is not accessible.
 
 For Knuckles, you'll have to use the gold and silver keys. They won't spawn if the level is not accessible for him.
+
+For Gamma, you have to use the same entrance as Knuckles, but you don't need the gold and silver keys.
 
 ### Final Egg
 
