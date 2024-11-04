@@ -14,4 +14,4 @@ You can use it as is, but it's recommended to disable the "Remove limitations" o
 If you re-enable the limitations, you won't be allowed to play as Super Sonic until you get all the Chaos Emeralds.
 Keep in mind that for the Chaos Emeralds to be part of the randomizer, you need to have them as part of the goal.
 
-If you want to play as Super Sonic without the Chaos Emeralds, you can re-enable the "Remove limitations" setting.
+If your goal doesn't include the Chaos Emeralds, you can still play as Super Sonic from the start.
