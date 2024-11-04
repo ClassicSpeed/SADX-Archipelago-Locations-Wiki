@@ -18,9 +18,10 @@ If you notice any issues or have feedback or suggestions send me a message on th
 
 ## Extra:
 
-- [**Item information**](./Items.md)
+- [**Item Information**](./Items.md)
 - [**Item/Location Groups**](./Groups.md)
 - [**Level Entrance Randomizer**](./LevelEntranceRandomizer.md)
+- [**Compatible Mods**](./CompatibleMods.md)
 
 ## FAQ:
 
