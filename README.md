@@ -15,6 +15,7 @@ If you notice any issues or have feedback or suggestions send me a message on th
 5. [**Sublevels**](./Sublevels.md)
 6. [**Bosses**](./Bosses.md)
 7. [**Missions**](./Missions.md)
+7. [**Chao Checks**](./Chao.md)
 
 ## Extra:
 

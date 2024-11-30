@@ -24,6 +24,8 @@ These are used mostly for plando or giving priority to certain locations.
 - **Bosses**
 - **Life Capsules**
 - **Missions**
+- **Chao Eggs**
+- **Chao Races**
 
 
 
