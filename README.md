@@ -41,7 +41,7 @@ You have to travel to the past using a [warp platform](./Upgrades.md#tails-rhyth
 ### Where can I find the logic for the mod?
 
 You can check out the logic
-spreadsheet [here](https://docs.google.com/spreadsheets/d/1CfBZ_pLGm3YTWwEwBLbk67e4iSrOE5vbcu0UkFej0pY/edit?usp=sharing).
+spreadsheet [here](https://docs.google.com/spreadsheets/d/1MKI-oe2KDodhk1MlMcgdEny0LGvkJETRHZTIyP23Xko/edit?usp=sharing).
 
 ### How do I get X location check?
 
