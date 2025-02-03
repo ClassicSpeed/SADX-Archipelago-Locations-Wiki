@@ -100,4 +100,4 @@ All characters use the same entrance.
 
 The doors won't open if the level is not accessible for the character.
 
-Remember that with Amy, Big, and Gamma, you have to press the button first.
+Remember that with Amy, and Big, you have to press the button first.
