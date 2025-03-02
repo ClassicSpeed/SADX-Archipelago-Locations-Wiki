@@ -22,10 +22,14 @@ These are used mostly for plando or giving priority to certain locations.
 - **Levels**
 - **Sublevels**
 - **Bosses**
-- **Life Capsules**
 - **Missions**
 - **Chao Eggs**
 - **Chao Races**
+- **Capsules**
+- **Enemies**
+- **Fish**
+- There is also one extra location group for each character+level combination.
+  - For example: **Emerald Coast (Sonic)**
 
 
 

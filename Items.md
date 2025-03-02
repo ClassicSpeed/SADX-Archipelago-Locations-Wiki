@@ -23,15 +23,18 @@ Character upgrades, they behave like in the original game.
 - **Train**: Enables the train between Mystic Ruins and Station Square.
 - **Boat**: Enables the boat between Station Square and Egg Carrier.
 - **Raft**: Enables the raft between Mystic Ruins and Egg Carrier.
-- **Station Keys**: Opens the door from Station Square to the Station.
-- **Hotel Keys**: Opens the door from Station Square to the Hotel.
-- **Casino District Keys**: Opens both from the Casino District to Station Square and to the Hotel.
+- **Station Front Key**: Opens the door from Station Square to the Station.
+- **Station Back Keys**: Opens the door from the Casino District to the Station.
+- **Hotel Front Keys**: Opens the door from Station Square to the Hotel.
+- **Hotel Back Keys**: Opens the door from the Casino District to the Hotel.
 - **Twinkle Park Ticket**: Enables the Twinkle Park elevator.
 - **Employee Card**: Opens the Speed Highway building's shutters.
 - **Ice Stone**: Spawns the Ice Stone in Station Square.
 - **Wind Stone**: Spawns the Wind Stone in Mystic Ruins.
 - **Dynamite**: Opens Angel Island's entrance.
 - **Jungle Cart**: Enables the cart to the Jungle.
+- **Egglift**: Enables the elevator in the Egg Carrier.
+- **Monorail**: Enables the monorail in the Egg Carrier.
 
 ### Filler Items
 
