@@ -43,7 +43,7 @@ You can disable them, select how many level missions you want and even use them 
 
 - **Characters**: Sonic, Gamma and Knuckles.
 - **Area**: Angel Island area in Mystic Ruins.
-- **Item Requirements**: Light Speed Shoes and Ancient Light (Sonic). Shovel Claw (Knuckles).
+- **Item Requirements**: Light Speed Shoes (Sonic) and Ancient Light (Sonic). Shovel Claw (Knuckles).
 
 ### Sky Deck
 
@@ -55,7 +55,7 @@ You can disable them, select how many level missions you want and even use them 
 
 - **Characters**: Sonic and Knuckles.
 - **Area**: Jungle in Mystic Ruins.
-- **Item Requirements**: Shovel Claw (Knuckles).
+- **Item Requirements**: Light Speed Shoes (Sonic). Shovel Claw (Knuckles).
 
 ### Final Egg
 
